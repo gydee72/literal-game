@@ -98,8 +98,8 @@ body {
 	font-family: 'Shojumaru', cursive;
 	position: absolute;
 	z-index: 3;
-	margin-top: 70px;
-	margin-left: 315px;
+	margin-top: 90px;
+	margin-left: 250px;
 	padding-bottom:50px;
 	color: #ffffff;
 }
@@ -112,7 +112,7 @@ body {
 	position: absolute;
 	z-index: 3;
 	margin-top: 10%;
-	margin-left: 25%;
+	margin-left: 15%;
 }
 
 .jeuxps {
